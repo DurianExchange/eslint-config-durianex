@@ -1,8 +1,6 @@
-# eslint-config-pancake
+# eslint-config-durian
 
-**This repository is not used anymore. See the [Pancake toolkit](https://github.com/pancakeswap/pancake-toolkit) instead**
-
-Pancake Eslint config with:
+Durian Eslint config with:
 
 - Airbnb config
 - Typescript
@@ -11,7 +9,7 @@ Pancake Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @pancakeswap-libs/eslint-config-pancake
+npx install-peerdeps --dev @durianexchange/eslint-config-durian
 ```
 
-Add `"extends": "@pancakeswap-libs/eslint-config-pancake"` to your eslint config file.
+Add `"extends": "@durianexchange/eslint-config-durian"` to your eslint config file.
